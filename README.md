@@ -16,7 +16,7 @@ The data preprocessing includes the following steps:
 
 ### chat_bot.ipynb
 
-This notebook includes the data preprocessing functions and the main chatbot script. It handles the extraction of text from PDF files, sentence splitting, text duplication, and the implementation of the Parent-Child Document Retriever.
+This notebook includes the data loader functions and the main chatbot script. It handles the extraction of text from PDF files, sentence splitting, text duplication, and the implementation of the Parent-Child Document Retriever.
 
 ### advanced RAG element example.ipynb
 
