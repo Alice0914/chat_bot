@@ -20,7 +20,9 @@ This notebook includes the data preprocessing functions and the main chatbot scr
 
 ### advanced RAG element example.ipynb
 
-This notebook demonstrates the improvement in the chatbot. It compares the performance of the initial chatbot with the improved version by answering a set of sample questions. The first chatbot was not able to answer the following questions:
+This notebook demonstrates the improvement in the chatbot. It compares the performance of the initial chatbot with the improved version by answering a set of sample questions. The naive ChatBot was only able to answer one question and tried to use Gemini using an API key.
+
+The first chatbot with Gemini API was not able to answer the following questions:
 
 - What is the Parent-Child Document Retriever?
 - Why do RAG applications benefit from using a Parent-Child Document Retriever?
